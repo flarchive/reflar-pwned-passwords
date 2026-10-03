@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of reflar/pwned-passwords.** Not for installation: use [Packagist](https://packagist.org/packages/reflar/pwned-passwords) or the [upstream repository](https://github.com/ReFlar/pwned-passwords).
 
-**0** versions archived · Latest: [`2.0.0-beta.1`](https://github.com/flarchive/reflar-pwned-passwords/tree/archive/v2.0.0-beta.1) · License: `MIT` · Flarum: `^2.0`
+**18** versions archived · Latest: [`2.0.0-beta.1`](https://github.com/flarchive/reflar-pwned-passwords/tree/archive/v2.0.0-beta.1) (stable: [`0.1.0`](https://github.com/flarchive/reflar-pwned-passwords/tree/archive/v0.1.0)) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-01-07 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-pwned-passwords/tree/archive/v0.1.0) |
+| `0.1.1` | 2019-01-07 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-pwned-passwords/tree/archive/v0.1.1) |
+| `0.1.2` | 2019-01-08 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-pwned-passwords/tree/archive/v0.1.2) |
+| `0.2.0` | 2019-01-14 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-pwned-passwords/tree/archive/v0.2.0) |
+| `0.3.0` | 2019-12-15 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-pwned-passwords/tree/archive/v0.3.0) |
+| `0.4.0` | 2020-03-12 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/reflar-pwned-passwords/tree/archive/v0.4.0) |
+| `0.5.0` | 2020-11-07 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/reflar-pwned-passwords/tree/archive/v0.5.0) |
+| `0.5.1` | 2020-12-04 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/reflar-pwned-passwords/tree/archive/v0.5.1) |
+| `0.6.0` | 2020-12-16 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/reflar-pwned-passwords/tree/archive/v0.6.0) |
+| `0.6.1` | 2021-02-16 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/reflar-pwned-passwords/tree/archive/v0.6.1) |
+
+[View all 18 versions](https://github.com/flarchive/reflar-pwned-passwords/tags)
 
 Catalog entry: [packages/reflar-pwned-passwords.json](https://github.com/flarchive/archive-index/blob/main/packages/reflar-pwned-passwords.json)
 
